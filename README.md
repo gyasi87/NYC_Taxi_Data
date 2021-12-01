@@ -1,4 +1,4 @@
-# NY City Taxi Fare Prediction Exploration using Dask
+# NY City Taxi Analysis using Dask
 
 This is data on New York City Taxi rides The Dataset is published by NYC and there are over 15 million trips. Our dataset includes every taxi ride in the city of New York in the year of 2015, including when and where it started and stopped, a breakdown of the fare, etc.
 The data is from [here](https://www.kaggle.com/kentonnlp/2014-new-york-city-taxi-trips?select=nyc_taxi_data_2014.csv).
